@@ -33,7 +33,7 @@ int main() {
         left++;
         right--;
     }
-
+l
     if (isPalindrome) {
         printf("YES\n");
     } else {
